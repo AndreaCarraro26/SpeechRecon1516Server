@@ -1,6 +1,6 @@
 # SpeechRecon1516Server
 
-This is android application created to comunicate with a remote server to perform asynchronous speech recognition (ASR) 
+This is an android application created to comunicate with a remote server to perform asynchronous speech recognition (ASR) 
 using Kaldi framework (http://kaldi-asr.org/doc/).  
 
 Here you can find only the server side. The client side is hosted at https://github.com/AndreaCarraro26/SpeechRecon1516/
