@@ -13,3 +13,11 @@ We hope that all you can find here could be helpful for your purpose. There isnt
 Unfortunatly, we'll not support the project anymore, so bugs and issues will not be corrected in the future. 
 
 Enjoy. 
+
+
+INSTRUCTION
+- We implemented a Linux/Apache/Php server
+- Be aware that we use relative path in our php and bash scripts.
+- We locate save.php in /var/www/html directory, while decode-wav in /home/user/desktop
+- In the same directory of decode-wav, you must download and compile Kaldi framework and Sox (http://sox.sourceforge.net/)
+- We used for our project the Voxforge model distributed with Kaldi. We know this is not the best choise for our purpose, but our goal was to create a working client/server app, despite the performance.
